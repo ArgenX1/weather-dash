@@ -1,0 +1,19 @@
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.card-body{
+    background-color: rgb(54, 54, 54);
+    color: white;
+}
+
+#icon{
+    width: 60px;
+}
+
+.cardIcon{
+    width: 50px;
+}
